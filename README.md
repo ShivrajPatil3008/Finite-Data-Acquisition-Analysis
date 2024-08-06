@@ -27,11 +27,11 @@ The application directory stores configuration.ini and recovery.bin files in the
 **Application Directory:** This refers to the location on the computer where the software is installed.
 
 **Keyboard Shortcuts:**
-Ctrl + O: Read Data File
-Ctrl + S: Save File
-Ctrl + Q: Quit
-Ctrl + I: Configure Data
-Ctrl + A: Acquire Data
-Ctrl + Shift + A: Analyze Data
-Ctrl + Shift + C: Clear Graph
-Ctrl + Shift + R: Default Configuration
+Ctrl + O: Read Data File;
+Ctrl + S: Save File;
+Ctrl + Q: Quit;
+Ctrl + I: Configure Data;
+Ctrl + A: Acquire Data;
+Ctrl + Shift + A: Analyze Data;
+Ctrl + Shift + C: Clear Graph;
+Ctrl + Shift + R: Default Configuration;
