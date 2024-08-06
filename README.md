@@ -9,13 +9,12 @@ This application uses basic function generator.vi to generate a waveform of 1000
 **Acquire Data:** Display the configured data on waveform graph by pressing "Acquire Data."
 **Analyze Data:** Use Mean.vi to calculate the mean value of the acquired data.
 **Clear Graph:** Clear the generated waveform graph.
-**Default Configurations:** Default settings are based on the data from the last program execution and stored in Configuration.ini.
-If this file is deleted by any chance, default settings will be set as follows:
+**Default Configurations:** Default Configuration settings will be set as follows:
 Signal Type: Sine Wave
 Frequency: 15
-Offset: 20
+Offset: 0
 Amplitude: 2
-Noise Amplitude: 1
+Noise Amplitude: 0
 **Save File:** Data is not saved automatically to prevent accidental storage. To save, press "Save File" and choose file format from txt, csv, or tdms.
 **Open File Location?:** If this option is checked and followed by "Save File," the system file explorer will open and highlight the saved file..
 **Read Data File:** Opens the system file explorer to select and read file.
