@@ -30,8 +30,10 @@ The application directory stores configuration.ini and recovery.bin files in the
 Ctrl + O: Read Data File;
 Ctrl + S: Save File;
 Ctrl + Q: Quit;
-Ctrl + I: Configure Data;
+Ctrl + C: Configure Data;
 Ctrl + A: Acquire Data;
 Ctrl + Shift + A: Analyze Data;
 Ctrl + Shift + C: Clear Graph;
 Ctrl + Shift + R: Default Configuration;
+Ctrl + I: Copy Graph Image;
+Ctrl + D: Copy Graph Data.
