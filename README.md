@@ -1,4 +1,4 @@
-**Installation**
+**Installation:**
 First, install "ni-labview-2024-runtime-engine_24.3_online.exe" if LabVIEW is not already installed on your system. Then, proceed with installing "Finite Data Analysis & Acquisition.exe".
 
 # Finite-Data-Acquisition-Analysis
