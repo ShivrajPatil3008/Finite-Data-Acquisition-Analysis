@@ -1,3 +1,6 @@
+**Installation**
+First, install "ni-labview-2024-runtime-engine_24.3_online.exe" if LabVIEW is not already installed on your system. Then, proceed with installing "Finite Data Analysis & Acquisition.exe".
+
 # Finite-Data-Acquisition-Analysis
 This LabVIEW application is designed to generate a waveform consisting of 1000 data samples using basic function generator.vi and add noise with uniform white noise waveform.vi. It offers several features to configure, display, analyze, and manage data.
 
